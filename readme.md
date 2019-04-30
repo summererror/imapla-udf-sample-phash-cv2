@@ -14,7 +14,8 @@
 ## Background
 
 Use [impala-udf-sample](https://github.com/cloudera/impala-udf-samples) to Create an Impala UDF function for image's phash compute based on cv::img_hash::pHash.
-provided by [opencv-> pHash](https://docs.opencv.org/4.1.0/df/d4e/classcv_1_1img__hash_1_1PHash.html).
+provided by  [opencv-> pHash](https://docs.opencv.org/4.1.0/df/d4e/classcv_1_1img__hash_1_1PHash.html) .
+
 
 
 
@@ -30,7 +31,7 @@ Luck!
 
 ### 1. Opencv
 
-Refer to [Installation in Linux] (https://docs.opencv.org/4.1.0/d7/d9f/tutorial_linux_install.html)
+Refer to [Installation in Linux](https://docs.opencv.org/4.1.0/d7/d9f/tutorial_linux_install.html) .
 
 
 
