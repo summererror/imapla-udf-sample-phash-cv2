@@ -67,9 +67,4 @@ make install
 #### 1.4 cloudera 
 
 
-```shell
-PATH_TO_MAVEN/mvn clean package
-```
-
-then add the .jar to your Hive envirnment, and create t
 
