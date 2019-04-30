@@ -26,11 +26,18 @@ provided by [opencv-> pHash](https://docs.opencv.org/4.1.0/df/d4e/classcv_1_1img
 Luck!
 
 
-## Maven
+## Install
+
+### 1. Opencv
+
+Refer to [Installation in Linux] (https://docs.opencv.org/4.1.0/d7/d9f/tutorial_linux_install.html)
+
+
+
 
 ```shell
 PATH_TO_MAVEN/mvn clean package
 ```
 
-then add the .jar to your Hive envirnment, and create the function.
+then add the .jar to your Hive envirnment, and create t
 
